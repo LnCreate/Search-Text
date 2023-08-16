@@ -1,5 +1,6 @@
 # Search-Text
-一个用来帮助我的考研朋友在某文件夹下的所有文件中搜索指定关键词的python代码
+一个用来帮助我的考研朋友在某文件夹下的所有文件中搜索指定关键词的python代码，目前可以查找txt，docx，pptx，pdf
+
 - 先选关键词
 ![$U6{0JVC@}8(KQP8ICKH(X](https://github.com/LnCreate/Search-Text/assets/80500908/ebc86256-5047-4577-8eab-aeca5d052d4f)
 - 选择要操作的文件夹
