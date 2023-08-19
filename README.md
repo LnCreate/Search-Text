@@ -13,6 +13,7 @@ D:\GIT_PROJECT\SEARCH-TEXT
 │
 └─UI
       search.ui
+```
 其中, app_logic.py为代码运行逻辑
 Ui_search.py为QT5生成的设计界面
 main.py为主程序，将设计界面和代码进行关联绑定
